@@ -28,6 +28,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_7
         targetCompatibility JavaVersion.VERSION_1_7
     }
+    namespace 'com.example.android.displayingbitmaps'
 }
 
 dependencies {
